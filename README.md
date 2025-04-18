@@ -89,7 +89,7 @@ To get started with the the app, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deepanshubajaj/Bloom-Access-App-Other-Variants.git
+   git clone https://github.com/deepanshubajaj/Bloom-Access-App-Lite.git
    ```
 ### 🚀 Frontend Setup
 
