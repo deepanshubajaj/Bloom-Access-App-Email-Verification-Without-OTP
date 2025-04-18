@@ -252,44 +252,14 @@ Here’s a short video showcasing the app's functionality:
 [Watch Splash screen Video](ProjectOutputs/WorkingVideo/appLoad.mov)
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingGifs/WorkingVideoCompleteApp.gif" alt="Screen1" width="30%" />
+  <img src="ProjectOutputs/WorkingGifs/WorkingVideoWithoutOTP.gif" alt="Screen1" width="30%" />
 </p>
 
 <p align="center">
   *Complete App Working Video.*
 </p>
 
-[Watch Complete screen Video](ProjectOutputs/WorkingVideo/WorkingVideoCompleteApp.mov)
-
-<p align="center">
-  <img src="ProjectOutputs/WorkingGifs/WorkingVideoWithoutOTP.gif" alt="Screen2" width="30%" />
-</p>
-
-<p align="center">
-  *App Working Video without OTP.*
-</p>
-
-[Watch App Working Video without OTP](ProjectOutputs/WorkingVideo/WorkingVideoWithoutOTP.mov)
-
-<p align="center">
-  <img src="ProjectOutputs/WorkingGifs/WorkingVideoWithOTP.gif" alt="Screen3" width="30%" />
-</p>
-
-<p align="center">
-  *App Working Video with OTP.*
-</p>
-
-[Watch App Working Video with OTP.](ProjectOutputs/WorkingVideo/WorkingVideoWithOTP.mov)
-
-<p align="center">
-  <img src="ProjectOutputs/WorkingGifs/WorkingVideoOnlyGoogleSignin.gif" alt="Screen4" width="30%" />
-</p>
-
-<p align="center">
-  *App Working Video only google signin.*
-</p>
-
-[Watch App Working Video only google signin.](ProjectOutputs/WorkingVideo/WorkingVideoOnlyGoogleSignin.mov)
+[Watch Complete screen Video](ProjectOutputs/WorkingVideo/WorkingVideoWithoutOTP.mov)
 
 ---
 
