@@ -178,9 +178,9 @@ For Backend
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="ProjectOutputs/Snapshots/BA-16.jpg" alt="Main Screen 4" width="30%" />
-    <img src="ProjectOutputs/Snapshots/BA-19.jpg" alt="Main Screen 5" width="30%" />
-    <img src="ProjectOutputs/Snapshots/BA-21.jpg" alt="Main Screen 6" width="30%" />
+    <img src="ProjectOutputs/Snapshots/BA-17.jpg" alt="Main Screen 4" width="30%" />
+    <img src="ProjectOutputs/Snapshots/BA-20.jpg" alt="Main Screen 5" width="30%" />
+    <img src="ProjectOutputs/Snapshots/BA-18.jpg" alt="Main Screen 6" width="30%" />
   </div>
 </p>
 
